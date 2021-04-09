@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 
-
+.upper{
+	box-shadow: 3px 3px 8px gray;
+	height: 45px;
+	border-radius: 3px;
+}
 .button1{
 float:left;
 display:flex;
@@ -442,6 +446,10 @@ width: 120px;}
 		font-size: 18px;
 		width: 240px;
 		text-align: center;
+	}
+	.logod{
+		display: flex;
+		justify-content: center;
 	}
 	
 /*.ig1{
